@@ -1,0 +1,3 @@
+ahmad,22222,ahmad,current,2001000,active,2
+ali,11111,ali,saving,1979000,active,3
+ali,22222,ali aa,current,332321,active,3

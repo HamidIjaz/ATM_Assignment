@@ -1,0 +1,9 @@
+D:\projects\c#\ATM_Assignment1\ATM_BO\bin\Debug\netstandard2.0\ATM_BO.deps.json
+D:\projects\c#\ATM_Assignment1\ATM_BO\bin\Debug\netstandard2.0\ATM_BO.dll
+D:\projects\c#\ATM_Assignment1\ATM_BO\bin\Debug\netstandard2.0\ATM_BO.pdb
+D:\projects\c#\ATM_Assignment1\ATM_BO\obj\Debug\netstandard2.0\ATM_BO.csprojAssemblyReference.cache
+D:\projects\c#\ATM_Assignment1\ATM_BO\obj\Debug\netstandard2.0\ATM_BO.AssemblyInfoInputs.cache
+D:\projects\c#\ATM_Assignment1\ATM_BO\obj\Debug\netstandard2.0\ATM_BO.AssemblyInfo.cs
+D:\projects\c#\ATM_Assignment1\ATM_BO\obj\Debug\netstandard2.0\ATM_BO.csproj.CoreCompileInputs.cache
+D:\projects\c#\ATM_Assignment1\ATM_BO\obj\Debug\netstandard2.0\ATM_BO.dll
+D:\projects\c#\ATM_Assignment1\ATM_BO\obj\Debug\netstandard2.0\ATM_BO.pdb

@@ -1,0 +1,12 @@
+D:\projects\c#\ATM_Assignment1\ATM_DAL\bin\Debug\netstandard2.0\ATM_DAL.deps.json
+D:\projects\c#\ATM_Assignment1\ATM_DAL\bin\Debug\netstandard2.0\ATM_DAL.dll
+D:\projects\c#\ATM_Assignment1\ATM_DAL\bin\Debug\netstandard2.0\ATM_DAL.pdb
+D:\projects\c#\ATM_Assignment1\ATM_DAL\bin\Debug\netstandard2.0\ATM_BO.dll
+D:\projects\c#\ATM_Assignment1\ATM_DAL\bin\Debug\netstandard2.0\ATM_BO.pdb
+D:\projects\c#\ATM_Assignment1\ATM_DAL\obj\Debug\netstandard2.0\ATM_DAL.csprojAssemblyReference.cache
+D:\projects\c#\ATM_Assignment1\ATM_DAL\obj\Debug\netstandard2.0\ATM_DAL.AssemblyInfoInputs.cache
+D:\projects\c#\ATM_Assignment1\ATM_DAL\obj\Debug\netstandard2.0\ATM_DAL.AssemblyInfo.cs
+D:\projects\c#\ATM_Assignment1\ATM_DAL\obj\Debug\netstandard2.0\ATM_DAL.csproj.CopyComplete
+D:\projects\c#\ATM_Assignment1\ATM_DAL\obj\Debug\netstandard2.0\ATM_DAL.dll
+D:\projects\c#\ATM_Assignment1\ATM_DAL\obj\Debug\netstandard2.0\ATM_DAL.pdb
+D:\projects\c#\ATM_Assignment1\ATM_DAL\obj\Debug\netstandard2.0\ATM_DAL.csproj.CoreCompileInputs.cache

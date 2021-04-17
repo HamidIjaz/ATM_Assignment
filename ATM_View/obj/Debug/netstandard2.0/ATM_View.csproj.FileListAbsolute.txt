@@ -1,0 +1,16 @@
+D:\projects\c#\ATM_Assignment1\ATM_View\bin\Debug\netstandard2.0\ATM_View.deps.json
+D:\projects\c#\ATM_Assignment1\ATM_View\bin\Debug\netstandard2.0\ATM_View.dll
+D:\projects\c#\ATM_Assignment1\ATM_View\bin\Debug\netstandard2.0\ATM_View.pdb
+D:\projects\c#\ATM_Assignment1\ATM_View\bin\Debug\netstandard2.0\ATM_BLL.dll
+D:\projects\c#\ATM_Assignment1\ATM_View\bin\Debug\netstandard2.0\ATM_BO.dll
+D:\projects\c#\ATM_Assignment1\ATM_View\bin\Debug\netstandard2.0\ATM_DAL.dll
+D:\projects\c#\ATM_Assignment1\ATM_View\bin\Debug\netstandard2.0\ATM_BLL.pdb
+D:\projects\c#\ATM_Assignment1\ATM_View\bin\Debug\netstandard2.0\ATM_BO.pdb
+D:\projects\c#\ATM_Assignment1\ATM_View\bin\Debug\netstandard2.0\ATM_DAL.pdb
+D:\projects\c#\ATM_Assignment1\ATM_View\obj\Debug\netstandard2.0\ATM_View.csprojAssemblyReference.cache
+D:\projects\c#\ATM_Assignment1\ATM_View\obj\Debug\netstandard2.0\ATM_View.AssemblyInfoInputs.cache
+D:\projects\c#\ATM_Assignment1\ATM_View\obj\Debug\netstandard2.0\ATM_View.AssemblyInfo.cs
+D:\projects\c#\ATM_Assignment1\ATM_View\obj\Debug\netstandard2.0\ATM_View.csproj.CoreCompileInputs.cache
+D:\projects\c#\ATM_Assignment1\ATM_View\obj\Debug\netstandard2.0\ATM_View.csproj.CopyComplete
+D:\projects\c#\ATM_Assignment1\ATM_View\obj\Debug\netstandard2.0\ATM_View.dll
+D:\projects\c#\ATM_Assignment1\ATM_View\obj\Debug\netstandard2.0\ATM_View.pdb
